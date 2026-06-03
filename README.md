@@ -18,8 +18,3 @@ npm run start
 ```
 
 Lalu jalankan di perangkat dengan Expo Go (Android/iOS).
-
-## Catatan
-
-- Data laporan saat ini berupa data contoh di `App.tsx` dan bisa disesuaikan.
-- File excel dibuat secara lokal menggunakan library `xlsx` dan `expo-file-system`.
